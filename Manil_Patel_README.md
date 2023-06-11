@@ -7,10 +7,10 @@
 ## Tutorial Links
 
 
-Tutorial_3 link live: https://main--golden-nougat-b20c2d.netlify.app/
+Tutorial_3 link live: https://648518eaf652933ba9469fc5--symphonious-sorbet-d8795c.netlify.app/
 
 
-Tutorial_3 Gitlab Link: https://git.cs.dal.ca/manilpatel01/csci_5709_tutorials/-/tree/tutorial_3?ref_type=heads
+Tutorial_3 Gitlab Link: https://git.cs.dal.ca/mnpatel/csci_5709_tutorials/-/tree/tutorial_3?ref_type=heads
 
 
 Tutorial_3 Github Link: https://github.com/manilpatel01/CSCI_WEB_5709_tutorial_3
